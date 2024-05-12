@@ -1,5 +1,6 @@
 # Weather App
 Application Screen:
+
 ![app](https://github.com/ancuong1610/Mobile-Weather/assets/66347972/cc08ab5d-8f72-4497-b926-73e2818c6763)
 
 JSON Data Sample:
