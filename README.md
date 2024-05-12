@@ -1,10 +1,9 @@
 # Weather App
-
-![Weather App Screenshot]
-(![app](https://github.com/ancuong1610/Mobile-Weather/assets/66347972/cc08ab5d-8f72-4497-b926-73e2818c6763))
+Application Screen
+![app](https://github.com/ancuong1610/Mobile-Weather/assets/66347972/cc08ab5d-8f72-4497-b926-73e2818c6763)
 
 JSON Data Sample:
-(![json](https://github.com/ancuong1610/Mobile-Weather/assets/66347972/f463d7ac-374d-477f-a9e0-fd3c365d099a))
+![json](https://github.com/ancuong1610/Mobile-Weather/assets/66347972/f463d7ac-374d-477f-a9e0-fd3c365d099a)
 
 ## Description
 
