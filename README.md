@@ -31,7 +31,7 @@ To get started with Weather App, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/ancuong1610/Mobile-Weather.git
    ```
 
 2. Open the project in Xcode.
